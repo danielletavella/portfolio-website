@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="Portfolio Website" content="">
+    <meta name="Danielle Tavella" content="">
+    <link rel="icon" href="favicon.ico">
+
+    <title>Danielle Tavella</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <!--<link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet"> -->
+
+    <!-- Custom styles for this template -->
+    <link href="bootstrap/css/starter-template.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+
+<nav class="navbar navbar-default" role="navigation">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+    </div>
+    <a class="navbar-brand" href="index.html">danielle tavella</a>
+    <div class="navbar-collapse collapse">
+        <ul class="nav navbar-nav navbar-left">
+            <li><a href="aboutMe.html">about me</a></li>
+
+        </ul>
+        <ul class="nav navbar-nav navbar-right">
+            <li><a href="index.html">projects</a></li>
+            <li><a href="nonUXThings.html">non-ux things</a></li>
+        </ul>
+    </div>
+</nav>
+
+<div class="container">
+
+
+    <img src="assets/imgs/telluswhoBanner2.png" class="img-responsive" width="100%" height="300px"/>
+
+    <h1><strong>telluswho</strong></h1>
+    <br>
+    <p>
+        telluswho is a social network survey tool that creates profiles for students, rich in data on their background, school, and work information, as well as their favorite interests and activities. Telluswho also collects their contacts so we can see who they do activities with and how their social networks at NJIT change over time.
+        <br><br>
+        This study is conducted under the supervision of Dr. Quentin Jones and is the basis for my Undergraduate Research Thesis.
+        <br><br>
+        <strong style=font-size:18pt>My Roles :</strong> UX Designer and Researcher, Project Manager
+    <br><br>
+    <h2><strong>The Problems:</strong></h2>
+    <br><br>
+    <ol>
+        <li><strong>How can we successfully collect student's activities and interests? </strong></li><br>
+        This was the hardest part of telluswho and has underwent many revisions. The main problem is that there are just too many things that people like! When we first started designing this page, we decided to give example categories, i.e movies, music, books but quickly found that students did not think outside the categories we provided.<br><br>
+        <li><strong>How can we make a long survey fun?</strong></li><br>
+        Telluswho is a long survey and we know that students do NOT like taking long and boring surveys. We decided to add fun interactive components to telluswho so students would want to continue taking it.<br><br>
+        <li><strong>How can we visualize student's social networks?</strong></li><br>
+        From prior research we know that that students organize their social networks into groups based on who they do activities with. We needed to design a way for the user to group their existing contacts in a meaningful way that made sense to them.<br><br>
+    </ol>
+    <h2><strong>The Solutions:</strong></h2>
+    We decided to use Axure RP to create a basic flow of the survey.  Axure enabled us to define basic survey interactions that would be used throughout telluswho. Our survey asked many different types of questions that required different styles of response input. Some required one answer, some multiple answers, some had multi-select text boxes, and some had drop down selection.
+    <br><br>
+    <strong>Check out our survey design patterns <a href="https://docs.google.com/spreadsheets/d/1j0-vlO2pIaVdqxFMBo4dZxkQzcaM9-DcYs7pwepOK6c/edit?usp=sharing">here</a></strong>
+    <br><br>
+    During this stage we went through many iterations of the interest and activities section. We first decided to use a tagging system inspired by“Tumblr” to collect user’s interests. We also gave the user a short fixed-list of basic interest categories. I conducted user testing once we had a working prototype in Axure. We recruited two participants for a think-aloud protocol and discovered that the basic interest categories were too overwhelming. Just seeing the word “music” could mean so many different things (artists? genres? concerts? instruments?) and the participants did not even know where to begin.
+    <br><br>
+    <strong>Check out some of my user testing notes <a href="https://docs.google.com/document/d/1P6Bo1fhuLUvYOhlyYsgZAD2xHtjYUq8wjzmJCUuc2G8/edit?usp=sharing">here</a></strong>
+    <br><br>
+    Back to the drawing board!
+    <br><br>
+    We decided to utilize fill-in-the-blank style questions and gave the user a plethora of categories to choose from. Our inspiration for this interaction style originated from “Mad Libs”.  This not only kept the user engaged, but they found the interaction simple due to the natural language used. Each interest category now has subcategories that probe the user into giving us the real “meat and potatoes” of their favorite interests. You can see a video of the prototype below.
+    <br><br>
+    <img src="http://g.recordit.co/riyGYL4U6G.gif" class="img-responsive" width="550px;" height="300px;">
+    <br><br>
+    We also added drag and drop components to keep the survey fun and the user engaged. This also allowed for the user to complete lengthy tasks in significantly less time.
+    <br><br>
+    <img src="http://g.recordit.co/sjFnsxLyqn.gif" class="img-responsive" width="550px;" height="300px;">
+    <br><br>
+    We used drag and drop components for the social network section of telluswho as well. We
+    knew we wanted to use prior social network desktop surveys for inspiration, such as <a href="http://vis.stanford.edu/jheer/projects/vizster/">Vizster</a>
+    and <a href="https://youtu.be/D_Pk6LDLNxw">ContactMap.</a> However, Vizster was too data driven and ContactMap needed to be brought into the year 2017. It took a few iterations to find a happy medium. We used drag and drop to link their contacts to the activities they gave us previously in the survey. Below are some design iterations we did.
+    <br><br>
+    <img src="http://g.recordit.co/pCIjqtdVfq.gif" class="img-responsive" width="550px;" height="300px;"/></p>
+    <br><br>
+    <div class="col-md-5">
+        <img class="telluswhopic2" src="/Users/danielletavella/workspace/portfolio-website/assets/imgs/telluswho2.png" class="img-responsive" width="400px;" height="300px;">
+    </div>
+    <div class="col-md-offset-6">
+        <img class="telluswhopic3" src="/Users/danielletavella/workspace/portfolio-website/assets/imgs/groups.png" class="img-responsive" width="400px;" height="350px;">
+    </div>
+    <br><br>
+    <h2><strong>Style Guide</strong></h2>
+    <br><br>
+    <img class="styleGuide" src="/Users/danielletavella/workspace/portfolio-website/assets/imgs/styleGuide.png" class="img-responsive" width="450px;" height="550px;">
+    <br><br>
+    Telluswho is currently in development and will be piloted in August 2017. Check out our Invision <a href="https://invis.io/BGCQ782HT">here</a> for current designs which I made in Adobe Illustrator and Sketch.
+    <br><br>
+
+
+
+    <nav class="navbar navbar-default" role="navigation">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="index.html">all projects</a></li>
+                <li><a href="index.html">opportunistic social matching</a></li>
+                <li><a href="index.html">group coordinator</a></li>
+                <li><a href="index.html">theSkimm redesign</a></li>
+            </ul>
+        </div>
+    </nav>
+
+
+
+
+
+
+
+
+
+
+</div><!-- /.container -->
+
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+<script src="../../dist/js/bootstrap.min.js"></script>
+<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+<script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+</body>
+</html>
