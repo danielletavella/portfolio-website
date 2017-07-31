@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b27c6c1e-813f-42b0-9dfa-64407bf2772a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aboutMe.html" afterPath="$PROJECT_DIR$/aboutMe.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/css/starter-template.css" afterPath="$PROJECT_DIR$/bootstrap/css/starter-template.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/groupCoordination.html" afterPath="$PROJECT_DIR$/groupCoordination.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nonUXThings.html" afterPath="$PROJECT_DIR$/nonUXThings.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/socialMatching.html" afterPath="$PROJECT_DIR$/socialMatching.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/telluswho2.html" afterPath="$PROJECT_DIR$/telluswho2.html" />
     </list>
@@ -23,8 +26,8 @@
       <file leaf-file-name="groupCoordination.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/groupCoordination.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="118" column="0" lean-forward="true" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
+            <state relative-caret-position="255">
+              <caret line="61" column="33" lean-forward="false" selection-start-line="61" selection-start-column="33" selection-end-line="61" selection-end-column="33" />
               <folding>
                 <element signature="n#style#0;n#strong#0;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -35,10 +38,22 @@
       <file leaf-file-name="telluswho2.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/telluswho2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-466">
-              <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+            <state relative-caret-position="120">
+              <caret line="8" column="45" lean-forward="true" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
               <folding>
                 <element signature="n#style#0;n#strong#0;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="42" column="10" lean-forward="false" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
+              <folding>
+                <element signature="n#style#0;n#span#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -47,8 +62,8 @@
       <file leaf-file-name="socialMatching.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/socialMatching.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1065">
-              <caret line="71" column="43" lean-forward="true" selection-start-line="71" selection-start-column="43" selection-end-line="71" selection-end-column="43" />
+            <state relative-caret-position="457">
+              <caret line="208" column="91" lean-forward="false" selection-start-line="208" selection-start-column="91" selection-end-line="208" selection-end-column="91" />
               <folding>
                 <element signature="n#style#0;n#strong#0;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -63,8 +78,8 @@
       <file leaf-file-name="aboutMe.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/aboutMe.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="79" column="21" lean-forward="false" selection-start-line="79" selection-start-column="21" selection-end-line="79" selection-end-column="21" />
+            <state relative-caret-position="289">
+              <caret line="77" column="20" lean-forward="false" selection-start-line="77" selection-start-column="20" selection-end-line="77" selection-end-column="20" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -78,24 +93,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="starter-template.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="starter-template.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bootstrap/css/starter-template.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="457">
-              <caret line="188" column="0" lean-forward="true" selection-start-line="188" selection-start-column="0" selection-end-line="188" selection-end-column="0" />
+            <state relative-caret-position="2745">
+              <caret line="183" column="0" lean-forward="true" selection-start-line="183" selection-start-column="0" selection-end-line="183" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-50">
-              <caret line="95" column="24" lean-forward="true" selection-start-line="95" selection-start-column="24" selection-end-line="95" selection-end-column="24" />
-              <folding>
-                <element signature="n#style#0;n#span#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -103,8 +106,8 @@
       <file leaf-file-name="nonUXThings.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/nonUXThings.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="66" column="0" lean-forward="true" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+            <state relative-caret-position="457">
+              <caret line="87" column="91" lean-forward="false" selection-start-line="87" selection-start-column="91" selection-end-line="87" selection-end-column="91" />
               <folding />
             </state>
           </provider>
@@ -113,8 +116,8 @@
       <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bootstrap/css/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2543">
-              <caret line="5988" column="8" lean-forward="false" selection-start-line="5988" selection-start-column="1" selection-end-line="5988" selection-end-column="8" />
+            <state relative-caret-position="23679">
+              <caret line="1601" column="18" lean-forward="true" selection-start-line="1601" selection-start-column="18" selection-end-line="1601" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -138,6 +141,7 @@
       <find>font-family</find>
       <find>button</find>
       <find>tooltip</find>
+      <find>container</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -148,14 +152,14 @@
       <list>
         <option value="$PROJECT_DIR$/bootstrap/index.html" />
         <option value="$PROJECT_DIR$/bootstrap/css/bootstrap.css" />
-        <option value="$PROJECT_DIR$/nonUXThings.html" />
         <option value="$PROJECT_DIR$/telluswho.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/bootstrap/css/starter-template.css" />
-        <option value="$PROJECT_DIR$/groupCoordination.html" />
         <option value="$PROJECT_DIR$/telluswho2.html" />
         <option value="$PROJECT_DIR$/socialMatching.html" />
+        <option value="$PROJECT_DIR$/nonUXThings.html" />
+        <option value="$PROJECT_DIR$/bootstrap/css/starter-template.css" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/aboutMe.html" />
+        <option value="$PROJECT_DIR$/groupCoordination.html" />
       </list>
     </option>
   </component>
@@ -166,8 +170,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-53" />
-    <option name="y" value="60" />
+    <option name="x" value="-158" />
+    <option name="y" value="51" />
     <option name="width" value="1637" />
     <option name="height" value="689" />
   </component>
@@ -200,12 +204,6 @@
               <item name="portfolio-website" type="b2602c69:ProjectViewProjectNode" />
               <item name="portfolio-website" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="portfolio-website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="portfolio-website" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="imgs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -250,15 +248,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1501178447346</updated>
-      <workItem from="1501178449834" duration="63278000" />
+      <workItem from="1501178449834" duration="68891000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63278000" />
+    <option name="totallyTimeSpent" value="68891000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-53" y="60" width="1637" height="689" extended-state="0" />
+    <frame x="-158" y="51" width="1637" height="689" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15532178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -331,14 +329,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nonUXThings.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="66" column="0" lean-forward="true" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/telluswho.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -364,38 +354,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2543">
-          <caret line="5988" column="8" lean-forward="false" selection-start-line="5988" selection-start-column="1" selection-end-line="5988" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/groupCoordination.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="118" column="0" lean-forward="true" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#strong#0;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/telluswho2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-466">
-          <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#strong#0;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/socialMatching.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1065">
-          <caret line="71" column="43" lean-forward="true" selection-start-line="71" selection-start-column="43" selection-end-line="71" selection-end-column="43" />
+        <state relative-caret-position="457">
+          <caret line="208" column="91" lean-forward="false" selection-start-line="208" selection-start-column="91" selection-end-line="208" selection-end-column="91" />
           <folding>
             <element signature="n#style#0;n#strong#0;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -406,10 +368,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/nonUXThings.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="87" column="91" lean-forward="false" selection-start-line="87" selection-start-column="91" selection-end-line="87" selection-end-column="91" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="42" column="10" lean-forward="false" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telluswho2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="45" lean-forward="true" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+          <folding>
+            <element signature="n#style#0;n#strong#0;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/aboutMe.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="79" column="21" lean-forward="false" selection-start-line="79" selection-start-column="21" selection-end-line="79" selection-end-column="21" />
+        <state relative-caret-position="289">
+          <caret line="77" column="20" lean-forward="false" selection-start-line="77" selection-start-column="20" selection-end-line="77" selection-end-column="20" />
           <folding>
             <element signature="n#style#0;n#span#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -422,21 +412,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/css/starter-template.css">
+    <entry file="file://$PROJECT_DIR$/groupCoordination.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="188" column="0" lean-forward="true" selection-start-line="188" selection-start-column="0" selection-end-line="188" selection-end-column="0" />
+        <state relative-caret-position="255">
+          <caret line="61" column="33" lean-forward="false" selection-start-line="61" selection-start-column="33" selection-end-line="61" selection-end-column="33" />
+          <folding>
+            <element signature="n#style#0;n#strong#0;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23679">
+          <caret line="1601" column="18" lean-forward="true" selection-start-line="1601" selection-start-column="18" selection-end-line="1601" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/bootstrap/css/starter-template.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-50">
-          <caret line="95" column="24" lean-forward="true" selection-start-line="95" selection-start-column="24" selection-end-line="95" selection-end-column="24" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="2745">
+          <caret line="183" column="0" lean-forward="true" selection-start-line="183" selection-start-column="0" selection-end-line="183" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
