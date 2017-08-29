@@ -8,7 +8,7 @@ body {
 }
 
 .starter-template {
-    padding: 40px 15px;
+    padding:0px;
     text-align: center;
     color: #5F3733;
 }
@@ -61,101 +61,6 @@ a.newActive{
     color: #e7c4c0!important;
 }
 
-.services{
-    margin: 20px auto;
-}
-
-figure.snip1174 {
-    color: #fff;
-    position:relative;
-    float: left;
-    overflow: hidden;
-    background-color: #1a1a1a;
-    text-align:left;
-    margin-left: 100px;
-    margin-right: auto;
-    margin-bottom: 50px;
-    width: 400px;
-    border-radius: 0px;
-
-}
-figure.snip1174 * {
-    -webkit-box-sizing: border-box;
-    box-sizing: border-box;
-    -webkit-transition: all 0.35s ease;
-    transition: all 0.35s ease;
-
-}
-figure.snip1174 img {
-    max-width: 100%;
-    -webkit-transform: scale(1.1);
-    transform: scale(1.1);
-    vertical-align: top;
-    opacity: 1;
-}
-figure.snip1174 figcaption {
-    position: absolute;
-    padding: 40px 25px;
-    top: 50px;
-    left:0px;
-    color:#5F3733;
-    visibility:hidden;
-    opacity:0;
-}
-
-figure.snip1174 h2,
-figure.snip1174 p {
-    margin: 0;
-    padding: 0;
-}
-figure.snip1174 h2 {
-    margin-bottom: 10px;
-    display: inline-block;
-    font-weight: 100;
-    font-size: 1.8em;
-}
-figure.snip1174 p {
-    font-weight: 300;
-    margin-bottom: 20px;
-    line-height: 1.4em;
-}
-
-figure.snip1174 a {
-    display: inline-block;
-    padding: 10px 20px;
-    border: 1px solid #ffffff;
-    text-decoration: none;
-    color: #5F3733;
-    letter-spacing: 2px;
-    text-transform: uppercase;
-    font-size: 0.8em;
-    -webkit-transform: translateY(50%);
-    transform: translateY(50%);
-    opacity: 0;
-}
-figure.snip1174 a:hover {
-    background-color: rgba(0, 0, 0, 0);
-}
-figure.snip1174.red {
-    background-color: #DCDCDC;
-}
-figure.snip1174:hover img,
-figure.snip1174.hover img {
-    opacity: 0.1;
-    -webkit-transform: scale(1);
-    transform: scale(1);
-}
-figure.snip1174:hover a,
-figure.snip1174.hover a {
-    -webkit-transform: translateY(0);
-    transform: translateY(0);
-    opacity:1;
-}
-figure.snip1174:hover figcaption{
-    visibility:visible;
-    opacity:1;
-}
-
 br{
     line-height:100%;
 }
@@ -180,4 +85,207 @@ br{
 
 .col-md-6{
     padding-bottom:100px;
+}
+
+.col-md-2{
+    position:relative;
+    padding-bottom:16.66666667%;
+}
+
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+.portfolio-item {
+    margin-bottom: 25px;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+.header-image {
+    display: block;
+    width: 100%;
+    text-align: center;
+    background: url('http://placehold.it/1900x500') no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.headline {
+    padding: 120px 0;
+}
+
+.headline h1 {
+    font-size: 130px;
+    background: #fff;
+    background: rgba(255,255,255,0.9);
+}
+
+.headline h2 {
+    font-size: 77px;
+    background: #fff;
+    background: rgba(255,255,255,0.9);
+}
+
+.featurette-divider {
+    margin: 80px 0;
+}
+
+.featurette {
+    overflow: hidden;
+}
+
+.featurette-image.pull-left {
+    margin-right: 40px;
+}
+
+.featurette-image.pull-right {
+    margin-left: 40px;
+}
+
+.featurette-heading {
+    font-size: 50px;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+@media(max-width:1200px) {
+    .headline h1 {
+        font-size: 140px;
+    }
+
+    .headline h2 {
+        font-size: 63px;
+    }
+
+    .featurette-divider {
+        margin: 50px 0;
+    }
+
+    .featurette-image.pull-left {
+        margin-right: 20px;
+    }
+
+    .featurette-image.pull-right {
+        margin-left: 20px;
+    }
+
+    .featurette-heading {
+        font-size: 35px;
+    }
+}
+
+@media(max-width:991px) {
+    .headline h1 {
+        font-size: 105px;
+    }
+
+    .headline h2 {
+        font-size: 50px;
+    }
+
+    .featurette-divider {
+        margin: 40px 0;
+    }
+
+    .featurette-image {
+        max-width: 50%;
+    }
+
+    .featurette-image.pull-left {
+        margin-right: 10px;
+    }
+
+    .featurette-image.pull-right {
+        margin-left: 10px;
+    }
+
+    .featurette-heading {
+        font-size: 30px;
+    }
+}
+
+@media(max-width:768px) {
+    .container {
+        margin: 0 15px;
+    }
+
+    .featurette-divider {
+        margin: 40px 0;
+    }
+
+    .featurette-heading {
+        font-size: 25px;
+    }
+}
+
+@media(max-width:668px) {
+    .headline h1 {
+        font-size: 70px;
+    }
+
+    .headline h2 {
+        font-size: 32px;
+    }
+
+    .featurette-divider {
+        margin: 30px 0;
+    }
+}
+
+@media(max-width:640px) {
+    .headline {
+        padding: 75px 0 25px 0;
+    }
+
+    .headline h1 {
+        font-size: 60px;
+    }
+
+    .headline h2 {
+        font-size: 30px;
+    }
+}
+
+@media(max-width:375px) {
+    .featurette-divider {
+        margin: 10px 0;
+    }
+
+    .featurette-image {
+        max-width: 100%;
+    }
+
+    .featurette-image.pull-left {
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+
+    .featurette-image.pull-right {
+        margin-bottom: 10px;
+        margin-left: 0;
+    }
+}
+
+/*CSS*/
+div.c-wrapper{
+    width: 80%; /* for example */
+    margin: auto;
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img{
+    width: 25%; /* use this, or not */
+    margin: auto;
+}
+
+.carousel-control.left, .carousel-control.right {
+    background-image: none
 }
